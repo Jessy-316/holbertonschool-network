@@ -1,3 +1,3 @@
 # Holberton Coding School
 
-Networking Basics Project!
+HolbertonSchool - Network Repository
